@@ -1,0 +1,50 @@
+{
+    "env": "production",
+    "dbConfig": {
+        "host": "localhost",
+        "user": "root",
+        "password": "password",
+        "database": "sequelize",
+        "pool": {
+            "min": 0,
+            "max": 5
+        }
+    },
+    "secretKey": "secretKey",
+  "jwt": {
+    "secretKey": "cRfUjXn2r5u8x/A%D*G-KaPdSgVkYp3s",
+    "name": "Authorization"
+  },
+  "password": {
+    "bit": 256,
+    "key": "B&E(H+MbQeThWmZq4t7w!z%C*F-J@NcR"
+  },
+
+    "log": {
+        "format": "combined",
+        "dir": "../logs"
+    },
+    "cors": {
+        "origin": "your.domain.com",
+        "credentials": true
+    },
+  "locale": {
+    "default": "en",
+    "supported": {
+      "en": "en",
+      "fa": "fa"
+    }
+  },
+  "siteAddress": "https://testprotoype.ir",
+  "email": {
+    "host": "mail.testprototype.ir",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "admin@testprototype.ir",
+      "pass": "BoOCKD6Z8BWD"
+    },
+    "fromName": "admin",
+    "fromEmail": "admin@testprototype.ir"
+  }
+}

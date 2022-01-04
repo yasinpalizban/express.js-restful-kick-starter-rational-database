@@ -1,0 +1,84 @@
+{
+  "api": {
+    "events": {
+      "emailForgot": "Email Reset Link",
+      "emailActivation": "Email Activation Link",
+      "fileMimiType": "File  mimi type is not allowed",
+      "fileSize": "File size  Can not greater then "
+    },
+    "commons": {
+      "receive": "get all information",
+      "validation": "information is not valid",
+      "reject": " can not save  information!? ",
+      "exist": "  information dose not  exist!?",
+      "remove": "  information delete it ",
+      "save": "  information is store successfully ",
+      "update": "  information is updated successfully ",
+      "already": "  information already  exist!?"
+    },
+    "errors": {
+      "rest": {
+        "all": "RESTful.notImplemented all",
+        "index": "RESTful.notImplemented index",
+        "show": "RESTful.notImplemented show",
+        "create": "RESTful.notImplemented create",
+        "update": "RESTful.notImplemented update",
+        "delete": "RESTful.notImplemented delete"
+      }
+    }
+  },
+  "auth": {
+    "youAreNot": "You re not user",
+    "youAreEmail": "You re Email already exists",
+    "youArePhone": "You re Phone already exists",
+    "youAreNotEmail": "You re Email not found",
+    "youAreNotPhone": "You re Phone not found",
+    "youAreNotUserName": "You re UserName not found",
+    "youAreNotAccount": "Account not found",
+    "singOut": "You are sign out",
+    "singIn": "You are sign in",
+    "singUp": "You are sign up successfully",
+    "singUpNotWork": "Sign up Not Working",
+    "singInNotWork": "Sign in Not Working",
+    "passwordNotMatch": "You re password not matching",
+    "forgot": "you are forgot password",
+    "forgotDone": "Email or Sms sent it to you ",
+    "emailActivateTitle": "This is activation email for your account on",
+    "emailActivateGuide": "To activate your account use this URL or copy hash code and go to  activation page.",
+    "emailActivateHash": "Your Code :",
+    "emailActivationPage": "Go to activation page:",
+    "emailActivateIgnore": "If you did not registered on this website, you can safely ignore this email.",
+    "emailActivateAccount": "Activate account.",
+    "emailForgotTitle": "Someone requested a password reset at this email address for",
+    "emailForgotGuide": "To reset the password use copy this code and go to URL and follow the instructions",
+    "emailForgotVisit": "Visit the",
+    "emailForgotResetFrom": "Reset password page",
+    "emailSendErrorActivation": "Failed to send activation message ",
+    "emailSendErrorForgot": "Failed to send forgot message ",
+    "accountActivate": "You re account confirm successfully  ",
+    "tokenExpire": "Token has been send to you expired  please go  to activation page and get new token",
+    "emailActivationSend": "An email which contain activation token sent it to you ",
+    "smsActivationSend": " A sms which contain activation token sent it to you ",
+    "resetPasswordDone": " New password Saved  successfully",
+    "youAreRobot": "we guess you are Bot ?!",
+    "accountBan": "Account  is ban ,Please contact to Admin",
+    "accountNotConfirm": "Account  is not confirm ,Please complete activation",
+    "accountNotExist": "Unable to log you in. Something wrong with login filed Or password !?."
+  },
+  "middleWear": {
+    "wrongAuth": "Wrong authentication token",
+    "authToken": "Authentication token missing",
+    "youAlreadySignedIn": "You are already signed in",
+    "notEnoughPrivilege": "You do not have sufficient permissions to access that page.",
+    "csrf" : "csrf is no valid ",
+    "jwt" : "jwt is expire so  you are not log in",
+    "login": "you are not log in",
+    "activation": "you did not activate your account",
+    "throttle" : "Too many request from this IP, please try again after an hour !",
+    "url" : " url is not valid",
+    "dataInput" : "Request must  be contain FormData or Json object",
+    "contentLang": "Content language not support",
+    "contentChar": "Content char not support",
+    "contentEncode": "Content Encode not support"
+  }
+}

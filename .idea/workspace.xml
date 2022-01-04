@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="347ad20e-de41-4018-8123-46b9f4bc2103" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.lintstagedrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/configs/development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/configs/production.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/configs/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/databases/database.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/exceptions/HttpException.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/interfaces/db.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/interfaces/routes.interface.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20SDmViBvt6vq940acDBY4PEbLf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\node.js\restful-mysql\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="D:\project\node.js\restful-mysql\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\node.js\restful-mysql" />
+      <recent name="D:\node.js\restful-mysql\src\modules\auth\seeders" />
+      <recent name="D:\node.js\restful-mysql\src\core\interfaces" />
+      <recent name="D:\node.js\restful-mysql\src\modules\auth\models" />
+      <recent name="D:\node.js\restful-mysql\src\modules\auth\interfaces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\node.js\restful-mysql\src\modules\auth\utils" />
+      <recent name="D:\node.js\restful-mysql\src\locals\en" />
+      <recent name="D:\node.js\restful-mysql\src\modules\common" />
+      <recent name="D:\node.js\restful-mysql\src" />
+      <recent name="D:\node.js\restful-mysql" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="347ad20e-de41-4018-8123-46b9f4bc2103" name="Changes" comment="" />
+      <created>1636029255243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636029255243</updated>
+      <workItem from="1636029256597" duration="58000" />
+      <workItem from="1636030675076" duration="107000" />
+      <workItem from="1638461052336" duration="4001000" />
+      <workItem from="1638503993887" duration="2196000" />
+      <workItem from="1638506231518" duration="156000" />
+      <workItem from="1638545095538" duration="3383000" />
+      <workItem from="1638634545315" duration="2921000" />
+      <workItem from="1638715799666" duration="2792000" />
+      <workItem from="1638801937925" duration="516000" />
+      <workItem from="1638802475846" duration="2191000" />
+      <workItem from="1638886717516" duration="1607000" />
+      <workItem from="1639025855439" duration="159000" />
+      <workItem from="1639054129377" duration="1856000" />
+      <workItem from="1639161507905" duration="2052000" />
+      <workItem from="1639163592204" duration="132000" />
+      <workItem from="1639238472954" duration="1598000" />
+      <workItem from="1639332500154" duration="4254000" />
+      <workItem from="1639407786797" duration="2430000" />
+      <workItem from="1639410234000" duration="3827000" />
+      <workItem from="1639492849181" duration="2661000" />
+      <workItem from="1639575800860" duration="6187000" />
+      <workItem from="1639582085738" duration="271000" />
+      <workItem from="1639627073054" duration="3155000" />
+      <workItem from="1639658763457" duration="242000" />
+      <workItem from="1639659022042" duration="3061000" />
+      <workItem from="1639713589102" duration="3106000" />
+      <workItem from="1639716720891" duration="17000" />
+      <workItem from="1639716755165" duration="9000" />
+      <workItem from="1639727203189" duration="2411000" />
+      <workItem from="1639737436099" duration="2111000" />
+      <workItem from="1639836436795" duration="2310000" />
+      <workItem from="1639843515280" duration="1993000" />
+      <workItem from="1639850623422" duration="5019000" />
+      <workItem from="1639922878674" duration="1169000" />
+      <workItem from="1639931040482" duration="6128000" />
+      <workItem from="1640012375298" duration="7846000" />
+      <workItem from="1640021486930" duration="765000" />
+      <workItem from="1640023724850" duration="99000" />
+      <workItem from="1640179845103" duration="4430000" />
+      <workItem from="1640272231554" duration="938000" />
+      <workItem from="1640322981067" duration="1245000" />
+      <workItem from="1640365289138" duration="772000" />
+      <workItem from="1640626883428" duration="4807000" />
+      <workItem from="1640788834489" duration="583000" />
+      <workItem from="1641239749864" duration="1471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/server.ts</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/core/utils/logger.ts</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/modules/auth/models/group.model.ts</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/modules/shared/libraries/url.query.param.ts</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
